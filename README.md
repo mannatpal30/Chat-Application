@@ -42,8 +42,7 @@ Socket.io
 
 JWT Authentication
 
-Setup & Run Locally
-
+Setup & Run Locally:
 Prerequisites
 
 Node.js
@@ -52,7 +51,7 @@ MongoDB
 
 Git
 
-Backend
+Backend......
 
 cd backend
 
@@ -69,7 +68,7 @@ MONGO_URI=your_mongo_connection_string
 
 JWT_SECRET=your_secret_key
 
-Frontend
+Frontend......
 
 cd frontend
 
